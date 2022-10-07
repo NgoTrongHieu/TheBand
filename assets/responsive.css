@@ -1,0 +1,99 @@
+/* TL */
+@media (max-width: 1023px) and (min-width: 740px) {
+  /* .thien,
+      .hanh {
+        margin-left: 51px;
+      } */
+}
+
+/* Mobile */
+
+@media (max-width: 740px) {
+  .w100 {
+    width: 100% !important;
+  }
+
+  .m-mt8px {
+    margin-top: 8px;
+  }
+
+  #nav {
+    display: block;
+  }
+
+  #nav .subnav {
+    position: initial;
+    background-color: #000000;
+    width: 100%;
+  }
+
+  .subnav li {
+    display: inline-block;
+    width: 100%;
+  }
+
+  #nav .subnav a {
+    color: #fff;
+    padding: 0 33px;
+  }
+
+  #nav > li {
+    display: block;
+  }
+
+  #nav > li:first-child {
+    display: inline-block;
+  }
+
+  #header {
+    overflow: hidden;
+  }
+
+  #header .search-btn {
+    display: none;
+  }
+
+  #mobile-menu {
+    padding: 0 24px;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    line-height: 46.5px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+
+  #mobile-menu:hover {
+    background-color: rgb(219, 219, 219);
+    color: #000;
+  }
+
+  #content .member-img {
+    width: 60%;
+  }
+
+  #content .member-item {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .content-section .ticket-info {
+    width: 100%;
+    padding: 8px 8px;
+  }
+
+  .content-section .ticket-info:first-child {
+    padding: 32px 8px 8px;
+  }
+
+  .m-input {
+    width: 100%;
+  }
+
+  .contact-input {
+    padding-top: 16px;
+  }
+}
