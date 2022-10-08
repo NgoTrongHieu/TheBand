@@ -145,10 +145,10 @@ Nguyên Tắc
 /* Llider */
 #slider {
   color: #fff;
-  margin-top: 26.5px;
+  margin-top: 46.5px;
   padding-top: 50%;
   margin-bottom: 64px;
-  background: url("/assets/img/slider.jpg") top center / cover no-repeat;
+  background: url("./img/slider.jpg") top center / cover no-repeat;
   position: relative;
 }
 

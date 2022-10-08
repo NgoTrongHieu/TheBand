@@ -9,6 +9,10 @@
 /* Mobile */
 
 @media (max-width: 740px) {
+  .text-content {
+    display: none;
+  }
+
   .w100 {
     width: 100% !important;
   }
